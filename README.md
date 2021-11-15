@@ -8,3 +8,7 @@ Unfortunatly I could not add an executable for windows as it was over the size l
 But You can dowload it from google drive ---> https://drive.google.com/file/d/13qURoM2WTCdHAAxbzTzz-VnFkzLdQHzu/view?usp=sharing
 
 all executables are V1.1 (latest: V1.2)
+
+Version 1.2:
+
+Added aditional support for mouse, on screen controls and ui pause menu button.
