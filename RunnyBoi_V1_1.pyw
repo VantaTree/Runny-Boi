@@ -1,6 +1,6 @@
 import pygame
-from the_game import play_game
-from level_creator import create_level
+from the_game_V1_1 import play_game
+from level_creator_V1_1 import create_level
 from os import walk as os_walk
 from webbrowser import open as web_open
 from pickle import dump as p_dump
