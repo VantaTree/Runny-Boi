@@ -1,7 +1,7 @@
 import pygame
 from pickle import load as p_load
 from pickle import dump as p_dump
-from level_creator import create_level
+from level_creator_V1_1 import create_level
 
 def play_game(level_name, default_one=False, editable=False):
 
