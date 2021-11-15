@@ -6,3 +6,5 @@ Preview at https://drive.google.com/file/d/1DH0C5H6eE2Lm1KqTpnmzrJzKIiA4YHmQ/vie
 
 Unfortunatly I could not add an executable for windows as it was over the size limit.
 But You can dowload it from google drive ---> https://drive.google.com/file/d/13qURoM2WTCdHAAxbzTzz-VnFkzLdQHzu/view?usp=sharing
+
+all executables are V1.1 (latest: V1.2)
