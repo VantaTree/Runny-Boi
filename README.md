@@ -14,7 +14,7 @@ Added aditional support for mouse, on screen controls and ui pause menu button.
 The position of ui controls can be change to Left, Right, None.
 
 
---------------------Credits------------------------
+--------------------Credits------------------------                                                         
 Developer: VantaTree
 Gameplay-Tester:  Raoul Graf
 Debugger: Roul Graf
