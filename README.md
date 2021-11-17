@@ -12,3 +12,11 @@ all executables are V1.1 (latest: V1.2)
 Version 1.2:
 Added aditional support for mouse, on screen controls and ui pause menu button.
 The position of ui controls can be change to Left, Right, None.
+
+
+--------------------Credits------------------------
+Developer: VantaTree
+Gameplay-Tester:  Raoul Graf
+Debugger: Roul Graf
+
+Special Thanks to Raoul Graf for being in the jouney.
