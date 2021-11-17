@@ -15,8 +15,8 @@ The position of ui controls can be change to Left, Right, None.
 
 
 --------------------Credits------------------------                                                         
-Developer: VantaTree
-Gameplay-Tester:  Raoul Graf
-Debugger: Roul Graf
+Developer: VantaTree                                                              
+Gameplay-Tester:  Raoul Graf                                                                  
+Debugger: Roul Graf                                                                           
 
 Special Thanks to Raoul Graf for being in the jouney.
