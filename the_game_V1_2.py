@@ -20,7 +20,7 @@ def play_game(level_name, default_one=False, editable=False):
             self.menu = False
             self.game_active = False
             self.go_to_hub = False
-            self.timer = [00, 00, 00]
+            self.timer = [0, 0, 0]
             self.level_name = level_name
             self.current_level = default_one
             self.level = p_load(open(level_name, 'rb'))
