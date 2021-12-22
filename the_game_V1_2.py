@@ -223,9 +223,9 @@ def play_game(level_name, default_one=False, editable=False):
 
         def display_timer(self):
             if self.timer[2] < 10:
-                milli_sec = '0' + str(self.timer[2])
+                centi_sec = '0' + str(self.timer[2])
             else:
-                milli_sec = str(self.timer[2])
+                centi_sec = str(self.timer[2])
             if self.timer[1] < 10:
                 sec = '0' + str(self.timer[1])
             else:
@@ -233,7 +233,7 @@ def play_game(level_name, default_one=False, editable=False):
 
             minute = str(self.timer[0])
 
-            the_time = minute + ':' + str(sec) + '.' + milli_sec
+            the_time = minute + ':' + str(sec) + '.' + centi_sec
             time_surface = game_font.render(the_time, True, (255, 255, 255))
             screen.blit(time_surface, (0, y_slide+0))
 
