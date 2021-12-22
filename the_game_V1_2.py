@@ -233,7 +233,7 @@ def play_game(level_name, default_one=False, editable=False):
 
             minute = str(self.timer[0])
 
-            the_time = str(minute) + ':' + str(sec) + '.' + milli_sec
+            the_time = minute + ':' + str(sec) + '.' + milli_sec
             time_surface = game_font.render(the_time, True, (255, 255, 255))
             screen.blit(time_surface, (0, y_slide+0))
 
