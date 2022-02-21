@@ -1,7 +1,7 @@
 # Runny-Boi
 My very first proper game
 
-RunnyBoi.pyw is the main file you need to run. Or the executable file.(only for linux)V1.1
+RunnyBoi.pyw is the main file you need to run. Or the executable file included.(only for linux)V1.1
 Preview at https://drive.google.com/file/d/1DH0C5H6eE2Lm1KqTpnmzrJzKIiA4YHmQ/view?usp=sharing
 
 Unfortunatly I could not add an executable for windows as it was over the size limit.
@@ -12,7 +12,7 @@ V1.1 ---> https://drive.google.com/file/d/13qURoM2WTCdHAAxbzTzz-VnFkzLdQHzu/view
 
 Version 1.2:
 Added aditional support for mouse, on screen controls and ui pause menu button.
-The position of ui controls can be change to Left, Right, None.
+The position of ui controls can be changed to Left, Right, None.
 
 
 --------------------Credits------------------------                                                         
