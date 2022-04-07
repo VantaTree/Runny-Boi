@@ -4,7 +4,7 @@ My very first proper game
 main.py is the main file you need to run.
 Preview at https://drive.google.com/file/d/1DH0C5H6eE2Lm1KqTpnmzrJzKIiA4YHmQ/view?usp=sharing
 
-Full game with executables at https://vantatree.itch.io/runny-boi
+Game with executables at https://vantatree.itch.io/runny-boi
 
 (latest version V0.3)
 
@@ -16,7 +16,7 @@ Added aditional support for mouse, on screen controls and ui pause menu button.
 The position of ui controls can be changed to Left, Right, None.
 
 Version 0.3:
-Added support for android. **very unstable**
+Added support for android. **very unstable** (can get at my itch.io. Only downlod for testing)
 
 --------------------Credits------------------------                                                         
 Developer: VantaTree                                                              
