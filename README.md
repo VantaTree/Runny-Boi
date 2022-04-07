@@ -4,7 +4,7 @@ My very first proper game
 main.py is the main file you need to run.
 Preview at https://drive.google.com/file/d/1DH0C5H6eE2Lm1KqTpnmzrJzKIiA4YHmQ/view?usp=sharing
 
-Game with executables at https://vantatree.itch.io/runny-boi
+Game with executables at https://vantatree.itch.io/runny-boi (windows-exe, APK)
 
 (latest version V0.3)
 
